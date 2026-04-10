@@ -21,6 +21,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0628-maximum-product-of-three-numbers](https://github.com/720824108115/Leet-Code-Problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/720824108115/Leet-Code-Problem/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/720824108115/Leet-Code-Problem/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0283-move-zeroes](https://github.com/720824108115/Leet-Code-Problem/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/720824108115/Leet-Code-Problem/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/720824108115/Leet-Code-Problem/tree/main/0392-is-subsequence/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/720824108115/Leet-Code-Problem/tree/main/0905-sort-array-by-parity/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,6 +130,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0217-contains-duplicate](https://github.com/720824108115/Leet-Code-Problem/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/720824108115/Leet-Code-Problem/tree/main/0242-valid-anagram/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/720824108115/Leet-Code-Problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/720824108115/Leet-Code-Problem/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
