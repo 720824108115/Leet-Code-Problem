@@ -25,6 +25,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0912-sort-an-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/0912-sort-an-array/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/720824108115/Leet-Code-Problem/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +72,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0917-reverse-only-letters](https://github.com/720824108115/Leet-Code-Problem/tree/main/0917-reverse-only-letters/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/720824108115/Leet-Code-Problem/tree/main/1143-longest-common-subsequence/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/720824108115/Leet-Code-Problem/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +95,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0905-sort-array-by-parity](https://github.com/720824108115/Leet-Code-Problem/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0917-reverse-only-letters](https://github.com/720824108115/Leet-Code-Problem/tree/main/0917-reverse-only-letters/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/720824108115/Leet-Code-Problem/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
