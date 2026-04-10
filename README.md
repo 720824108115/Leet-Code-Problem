@@ -10,6 +10,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0026-remove-duplicates-from-sorted-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/720824108115/Leet-Code-Problem/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/720824108115/Leet-Code-Problem/tree/main/0035-search-insert-position/) | Easy |
+| [0078-subsets](https://github.com/720824108115/Leet-Code-Problem/tree/main/0078-subsets/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +69,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/720824108115/Leet-Code-Problem/tree/main/0067-add-binary/) | Easy |
+| [0078-subsets](https://github.com/720824108115/Leet-Code-Problem/tree/main/0078-subsets/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,4 +78,8 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/720824108115/Leet-Code-Problem/tree/main/0070-climbing-stairs/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/720824108115/Leet-Code-Problem/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
