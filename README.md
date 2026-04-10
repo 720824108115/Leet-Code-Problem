@@ -26,6 +26,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0009-palindrome-number](https://github.com/720824108115/Leet-Code-Problem/tree/main/0009-palindrome-number/) | Easy |
 | [0043-multiply-strings](https://github.com/720824108115/Leet-Code-Problem/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/720824108115/Leet-Code-Problem/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/720824108115/Leet-Code-Problem/tree/main/0069-sqrtx/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/720824108115/Leet-Code-Problem/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/720824108115/Leet-Code-Problem/tree/main/0069-sqrtx/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
