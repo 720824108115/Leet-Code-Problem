@@ -20,6 +20,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0416-partition-equal-subset-sum](https://github.com/720824108115/Leet-Code-Problem/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/720824108115/Leet-Code-Problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/720824108115/Leet-Code-Problem/tree/main/0704-binary-search/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +90,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0035-search-insert-position](https://github.com/720824108115/Leet-Code-Problem/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/720824108115/Leet-Code-Problem/tree/main/0069-sqrtx/) | Easy |
 | [0704-binary-search](https://github.com/720824108115/Leet-Code-Problem/tree/main/0704-binary-search/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
