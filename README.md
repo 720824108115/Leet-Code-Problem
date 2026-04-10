@@ -50,6 +50,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/720824108115/Leet-Code-Problem/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/720824108115/Leet-Code-Problem/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/720824108115/Leet-Code-Problem/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +104,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0100-same-tree](https://github.com/720824108115/Leet-Code-Problem/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/720824108115/Leet-Code-Problem/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/720824108115/Leet-Code-Problem/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/720824108115/Leet-Code-Problem/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +114,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0100-same-tree](https://github.com/720824108115/Leet-Code-Problem/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/720824108115/Leet-Code-Problem/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/720824108115/Leet-Code-Problem/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/720824108115/Leet-Code-Problem/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +124,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0100-same-tree](https://github.com/720824108115/Leet-Code-Problem/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/720824108115/Leet-Code-Problem/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/720824108115/Leet-Code-Problem/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/720824108115/Leet-Code-Problem/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
