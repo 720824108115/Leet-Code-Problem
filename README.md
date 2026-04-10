@@ -55,6 +55,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0151-reverse-words-in-a-string](https://github.com/720824108115/Leet-Code-Problem/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/720824108115/Leet-Code-Problem/tree/main/0242-valid-anagram/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/720824108115/Leet-Code-Problem/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/720824108115/Leet-Code-Problem/tree/main/0392-is-subsequence/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +73,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0151-reverse-words-in-a-string](https://github.com/720824108115/Leet-Code-Problem/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/720824108115/Leet-Code-Problem/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/720824108115/Leet-Code-Problem/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/720824108115/Leet-Code-Problem/tree/main/0392-is-subsequence/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +102,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0070-climbing-stairs](https://github.com/720824108115/Leet-Code-Problem/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/720824108115/Leet-Code-Problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/720824108115/Leet-Code-Problem/tree/main/0198-house-robber/) | Medium |
+| [0392-is-subsequence](https://github.com/720824108115/Leet-Code-Problem/tree/main/0392-is-subsequence/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
