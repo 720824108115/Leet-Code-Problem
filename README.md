@@ -16,6 +16,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0198-house-robber](https://github.com/720824108115/Leet-Code-Problem/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/720824108115/Leet-Code-Problem/tree/main/0217-contains-duplicate/) | Easy |
+| [0283-move-zeroes](https://github.com/720824108115/Leet-Code-Problem/tree/main/0283-move-zeroes/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +69,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/720824108115/Leet-Code-Problem/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/720824108115/Leet-Code-Problem/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0283-move-zeroes](https://github.com/720824108115/Leet-Code-Problem/tree/main/0283-move-zeroes/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
