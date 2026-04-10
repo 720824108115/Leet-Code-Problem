@@ -17,6 +17,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0215-kth-largest-element-in-an-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/720824108115/Leet-Code-Problem/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/720824108115/Leet-Code-Problem/tree/main/0283-move-zeroes/) | Easy |
+| [0416-partition-equal-subset-sum](https://github.com/720824108115/Leet-Code-Problem/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +104,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/720824108115/Leet-Code-Problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/720824108115/Leet-Code-Problem/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/720824108115/Leet-Code-Problem/tree/main/0392-is-subsequence/) | Easy |
+| [0416-partition-equal-subset-sum](https://github.com/720824108115/Leet-Code-Problem/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
