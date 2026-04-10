@@ -24,6 +24,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0905-sort-array-by-parity](https://github.com/720824108115/Leet-Code-Problem/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/0912-sort-an-array/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/720824108115/Leet-Code-Problem/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,4 +219,8 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/0912-sort-an-array/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/720824108115/Leet-Code-Problem/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
