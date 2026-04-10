@@ -18,6 +18,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0217-contains-duplicate](https://github.com/720824108115/Leet-Code-Problem/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/720824108115/Leet-Code-Problem/tree/main/0283-move-zeroes/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/720824108115/Leet-Code-Problem/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/720824108115/Leet-Code-Problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +42,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0069-sqrtx](https://github.com/720824108115/Leet-Code-Problem/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/720824108115/Leet-Code-Problem/tree/main/0070-climbing-stairs/) | Easy |
 | [0258-add-digits](https://github.com/720824108115/Leet-Code-Problem/tree/main/0258-add-digits/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/720824108115/Leet-Code-Problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +122,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0215-kth-largest-element-in-an-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/720824108115/Leet-Code-Problem/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/720824108115/Leet-Code-Problem/tree/main/0242-valid-anagram/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/720824108115/Leet-Code-Problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
