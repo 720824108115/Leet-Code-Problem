@@ -22,6 +22,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0704-binary-search](https://github.com/720824108115/Leet-Code-Problem/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/720824108115/Leet-Code-Problem/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0912-sort-an-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/0912-sort-an-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +132,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0242-valid-anagram](https://github.com/720824108115/Leet-Code-Problem/tree/main/0242-valid-anagram/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/720824108115/Leet-Code-Problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/720824108115/Leet-Code-Problem/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0912-sort-an-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/0912-sort-an-array/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,10 +179,12 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0190-reverse-bits](https://github.com/720824108115/Leet-Code-Problem/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/720824108115/Leet-Code-Problem/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0912-sort-an-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0912-sort-an-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/0912-sort-an-array/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,4 +193,20 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/720824108115/Leet-Code-Problem/tree/main/0258-add-digits/) | Easy |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
