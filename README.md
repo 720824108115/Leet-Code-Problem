@@ -11,6 +11,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0027-remove-element](https://github.com/720824108115/Leet-Code-Problem/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/720824108115/Leet-Code-Problem/tree/main/0035-search-insert-position/) | Easy |
 | [0078-subsets](https://github.com/720824108115/Leet-Code-Problem/tree/main/0078-subsets/) | Medium |
+| [0088-merge-sorted-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/0088-merge-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0027-remove-element](https://github.com/720824108115/Leet-Code-Problem/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/720824108115/Leet-Code-Problem/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/720824108115/Leet-Code-Problem/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/0088-merge-sorted-array/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,4 +87,8 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/720824108115/Leet-Code-Problem/tree/main/0078-subsets/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
