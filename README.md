@@ -80,6 +80,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | ------- | ------- |
 | [0067-add-binary](https://github.com/720824108115/Leet-Code-Problem/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/720824108115/Leet-Code-Problem/tree/main/0078-subsets/) | Medium |
+| [0190-reverse-bits](https://github.com/720824108115/Leet-Code-Problem/tree/main/0190-reverse-bits/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,4 +138,8 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | ------- | ------- |
 | [0100-same-tree](https://github.com/720824108115/Leet-Code-Problem/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/720824108115/Leet-Code-Problem/tree/main/0101-symmetric-tree/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/720824108115/Leet-Code-Problem/tree/main/0190-reverse-bits/) | Easy |
 <!---LeetCode Topics End-->
