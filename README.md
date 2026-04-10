@@ -24,6 +24,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0002-add-two-numbers](https://github.com/720824108115/Leet-Code-Problem/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/720824108115/Leet-Code-Problem/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/720824108115/Leet-Code-Problem/tree/main/0009-palindrome-number/) | Easy |
+| [0043-multiply-strings](https://github.com/720824108115/Leet-Code-Problem/tree/main/0043-multiply-strings/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/720824108115/Leet-Code-Problem/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/720824108115/Leet-Code-Problem/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0043-multiply-strings](https://github.com/720824108115/Leet-Code-Problem/tree/main/0043-multiply-strings/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,4 +53,8 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/720824108115/Leet-Code-Problem/tree/main/0035-search-insert-position/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/720824108115/Leet-Code-Problem/tree/main/0043-multiply-strings/) | Medium |
 <!---LeetCode Topics End-->
