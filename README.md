@@ -20,6 +20,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/720824108115/Leet-Code-Problem/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/720824108115/Leet-Code-Problem/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/720824108115/Leet-Code-Problem/tree/main/0009-palindrome-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
