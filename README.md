@@ -65,6 +65,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0392-is-subsequence](https://github.com/720824108115/Leet-Code-Problem/tree/main/0392-is-subsequence/) | Easy |
 | [0709-to-lower-case](https://github.com/720824108115/Leet-Code-Problem/tree/main/0709-to-lower-case/) | Easy |
 | [0917-reverse-only-letters](https://github.com/720824108115/Leet-Code-Problem/tree/main/0917-reverse-only-letters/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/720824108115/Leet-Code-Problem/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +118,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0198-house-robber](https://github.com/720824108115/Leet-Code-Problem/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/720824108115/Leet-Code-Problem/tree/main/0392-is-subsequence/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/720824108115/Leet-Code-Problem/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/720824108115/Leet-Code-Problem/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
