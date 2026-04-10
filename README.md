@@ -23,12 +23,14 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0852-peak-index-in-a-mountain-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/720824108115/Leet-Code-Problem/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/0912-sort-an-array/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/720824108115/Leet-Code-Problem/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/720824108115/Leet-Code-Problem/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/720824108115/Leet-Code-Problem/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/720824108115/Leet-Code-Problem/tree/main/0242-valid-anagram/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/720824108115/Leet-Code-Problem/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +140,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0628-maximum-product-of-three-numbers](https://github.com/720824108115/Leet-Code-Problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/720824108115/Leet-Code-Problem/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/0912-sort-an-array/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/720824108115/Leet-Code-Problem/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,4 +217,5 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/0912-sort-an-array/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/720824108115/Leet-Code-Problem/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
