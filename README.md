@@ -45,6 +45,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0043-multiply-strings](https://github.com/720824108115/Leet-Code-Problem/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/720824108115/Leet-Code-Problem/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/720824108115/Leet-Code-Problem/tree/main/0067-add-binary/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/720824108115/Leet-Code-Problem/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +60,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/720824108115/Leet-Code-Problem/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/720824108115/Leet-Code-Problem/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/0088-merge-sorted-array/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/720824108115/Leet-Code-Problem/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
