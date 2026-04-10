@@ -70,12 +70,14 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0709-to-lower-case](https://github.com/720824108115/Leet-Code-Problem/tree/main/0709-to-lower-case/) | Easy |
 | [0917-reverse-only-letters](https://github.com/720824108115/Leet-Code-Problem/tree/main/0917-reverse-only-letters/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/720824108115/Leet-Code-Problem/tree/main/1143-longest-common-subsequence/) | Medium |
+| [2000-reverse-prefix-of-word](https://github.com/720824108115/Leet-Code-Problem/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/720824108115/Leet-Code-Problem/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/720824108115/Leet-Code-Problem/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/720824108115/Leet-Code-Problem/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/720824108115/Leet-Code-Problem/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +92,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0392-is-subsequence](https://github.com/720824108115/Leet-Code-Problem/tree/main/0392-is-subsequence/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/720824108115/Leet-Code-Problem/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0917-reverse-only-letters](https://github.com/720824108115/Leet-Code-Problem/tree/main/0917-reverse-only-letters/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/720824108115/Leet-Code-Problem/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
