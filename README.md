@@ -27,6 +27,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0043-multiply-strings](https://github.com/720824108115/Leet-Code-Problem/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/720824108115/Leet-Code-Problem/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/720824108115/Leet-Code-Problem/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/720824108115/Leet-Code-Problem/tree/main/0070-climbing-stairs/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,4 +68,12 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/720824108115/Leet-Code-Problem/tree/main/0067-add-binary/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/720824108115/Leet-Code-Problem/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/720824108115/Leet-Code-Problem/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
