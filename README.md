@@ -52,6 +52,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0258-add-digits](https://github.com/720824108115/Leet-Code-Problem/tree/main/0258-add-digits/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/720824108115/Leet-Code-Problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/720824108115/Leet-Code-Problem/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [2235-add-two-integers](https://github.com/720824108115/Leet-Code-Problem/tree/main/2235-add-two-integers/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
