@@ -8,6 +8,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | ------- | ------- |
 | [0001-two-sum](https://github.com/720824108115/Leet-Code-Problem/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/720824108115/Leet-Code-Problem/tree/main/0027-remove-element/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,4 +39,5 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/720824108115/Leet-Code-Problem/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/720824108115/Leet-Code-Problem/tree/main/0027-remove-element/) | Easy |
 <!---LeetCode Topics End-->
