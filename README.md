@@ -25,4 +25,12 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/720824108115/Leet-Code-Problem/tree/main/0002-add-two-numbers/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/720824108115/Leet-Code-Problem/tree/main/0020-valid-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/720824108115/Leet-Code-Problem/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
