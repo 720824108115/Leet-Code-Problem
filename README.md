@@ -19,6 +19,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0283-move-zeroes](https://github.com/720824108115/Leet-Code-Problem/tree/main/0283-move-zeroes/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/720824108115/Leet-Code-Problem/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/720824108115/Leet-Code-Problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0704-binary-search](https://github.com/720824108115/Leet-Code-Problem/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +87,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/720824108115/Leet-Code-Problem/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/720824108115/Leet-Code-Problem/tree/main/0069-sqrtx/) | Easy |
+| [0704-binary-search](https://github.com/720824108115/Leet-Code-Problem/tree/main/0704-binary-search/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
