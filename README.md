@@ -100,6 +100,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0099-recover-binary-search-tree](https://github.com/720824108115/Leet-Code-Problem/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/720824108115/Leet-Code-Problem/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/720824108115/Leet-Code-Problem/tree/main/0101-symmetric-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/720824108115/Leet-Code-Problem/tree/main/0110-balanced-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0099-recover-binary-search-tree](https://github.com/720824108115/Leet-Code-Problem/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/720824108115/Leet-Code-Problem/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/720824108115/Leet-Code-Problem/tree/main/0101-symmetric-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/720824108115/Leet-Code-Problem/tree/main/0110-balanced-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +118,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0099-recover-binary-search-tree](https://github.com/720824108115/Leet-Code-Problem/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/720824108115/Leet-Code-Problem/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/720824108115/Leet-Code-Problem/tree/main/0101-symmetric-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/720824108115/Leet-Code-Problem/tree/main/0110-balanced-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
